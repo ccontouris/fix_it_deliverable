@@ -1,0 +1,4 @@
+first step was changing the second first name to middle name 
+put spaces between variables 
+take out the extra " " at the second function result
+take out the null becuase its already counted for as a space 
